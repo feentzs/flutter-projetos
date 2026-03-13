@@ -72,7 +72,6 @@ class _HomeScreenState extends State<HomeScreen> {
           'Achar Pokemon',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
-        centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.primaryContainer,
         elevation: 0,
       ),
